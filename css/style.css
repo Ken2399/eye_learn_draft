@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+  }
+
+.sidenav{
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(248, 248, 248);
+    overflow-x: hidden;
+    padding-left: 50px;
+    padding-top: 180px;
+    z-index:1;
+}
+
+.sidenav a{
+    padding: 6px 8px 25px 46px;
+    text-decoration: none;
+    font-size: 18px;
+    color:#696969;
+    display: block;
+}
+
+mark.blue{
+    color: blue;
+    background: #d0b8fd;
+    padding: 7px;
+}
+
+.logo img{
+    position: fixed;
+    width: 140px;
+    height: 70px;
+    left: 55px;
+    top: 40px;
+    z-index:2;
+}
+
+.icon_eye_learn_chart img{
+    position: fixed;
+    width: 25px;
+    height: 25px;
+    left: 57px;
+    top: 185px;
+    z-index:3;
+}
+
+.icon_puzzle img{
+    position: fixed;
+    width: 26px;
+    height: 26px;
+    left: 55px;
+    top: 234px;
+    z-index:3;
+}
+
+.icon_book img{
+    position: fixed;
+    width: 26px;
+    height: 26px;
+    left: 57px;
+    top: 289px;
+    z-index:3;
+}
+
+.icon_eye img{
+    position: fixed;
+    width: 30px;
+    height: 20px;
+    left: 55px;
+    top: 343px;
+    z-index:3;
+}
+
+.eye img{
+    position: absolute;
+    width: 1200px;
+    height: 800px;
+    left: 0px;
+    top: 170px;
+    opacity: 0.85;
+}
+
+.eye_outline img{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 850px;
+    top: 170px;
+    opacity: 0.85;
+}
+
+.lens img{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 850px;
+    top: 170px;
+    opacity: 0.85;
+}
+
+.cornea img{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 850px;
+    top: 170px;
+    opacity: 0.85;
+}
+
+.opticnerve img{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 850px;
+    top: 170px;
+    opacity: 0.85;
+}
